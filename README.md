@@ -1,6 +1,6 @@
 # Self-Hosted Blog on Ubuntu Server
 
-**Hardware:** MacBook Pro M4  
+**Hardware:** MacBook Apple Silicon
 
 A complete **on-demand self-hosted blog** running inside a Ubuntu Server virtual machine. The blog only runs when I turn on the VM — perfect for a private portfolio.
 

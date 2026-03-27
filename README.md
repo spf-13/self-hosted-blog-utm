@@ -76,7 +76,7 @@ Even though this is a blog server, the skills directly translate to real securit
 <img width="1270" height="832" alt="Screenshot 2026-03-21 at 12 07 52 PM" src="https://github.com/user-attachments/assets/da335cb5-6ee4-4a78-9888-8bc10497a993" />
 <img width="900" height="998" alt="Screenshot 2026-03-26 at 8 32 57 PM" src="https://github.com/user-attachments/assets/5d8e1b34-78fc-45c4-9fde-7dd1af9500da" />
 
-## Usefull for
+## Useful for
 - Private Hosting
 - Personal Blog
 

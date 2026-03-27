@@ -1,8 +1,8 @@
-# Self-Hosted Blog on Ubuntu Server
+# Self-Hosted Blog on Ubuntu Server with UTM
 
 **Hardware:** MacBook Apple Silicon
 
-A complete **on-demand self-hosted blog** running inside a Ubuntu Server virtual machine. The blog only runs when I turn on the VM — perfect for a private portfolio.
+A complete **on-demand self-hosted blog** running inside an Ubuntu Server virtual machine. The blog only runs when I turn on the VM — perfect for a private portfolio.
 
 ### Project Goal
 Build my own private hosting server from scratch to host a personal cybersecurity blog/portfolio.
@@ -81,5 +81,5 @@ Even though this is a blog server, the skills directly translate to real securit
 - Personal Blog
 
 
-This repo show how I build private a hosting server and blog.
+This repo shows how I built private a hosting server and blog.
 
